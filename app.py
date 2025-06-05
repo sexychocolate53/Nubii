@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Page config
-st.set_page_config(page_title="Meet Nubii – CSR Agent", page_icon=")
+st.set_page_config(page_title="Meet Nubii – CSR Agent", page_icon="")
 
 # Title
 st.title("Meet NUBII")
