@@ -1,20 +1,20 @@
 import streamlit as st
 
 # Page config
-st.set_page_config(page_title="Meet Nubii – CSR Agent", page_icon="💁")
+st.set_page_config(page_title="Meet Nubii – CSR Agent", page_icon=")
 
 # Title
-st.title("💁 Meet NUBII")
+st.title("Meet NUBII")
 st.subheader("Your Heart-Centered CSR Agent for Blissful Wunderz Hair Growth Oil")
 
 # Mission
 st.markdown("""
-### ❤️ NUBII’s Mission
+### NUBII’s Mission
 To **deliver extraordinary support experiences** that leave every Blissful Wunderz customer feeling heard, helped, and happy—from the first message to long after their hair starts thriving.
 """)
 
 # Responsibilities
-st.markdown("### 📞 Nubii’s Core Responsibilities")
+st.markdown("### Nubii’s Core Responsibilities")
 st.markdown("""
 1. **Customer Support**  
    • Respond to DMs, emails, and questions  
@@ -38,7 +38,7 @@ st.markdown("""
 """)
 
 # Toolbox
-st.markdown("### 🧰 Nubii’s Toolbox")
+st.markdown("### Nubii’s Toolbox")
 st.markdown("""
 - CRM / Issue Tracker  
 - Email templates + reply scripts  
